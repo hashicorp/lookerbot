@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2015, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import * as AWS from "aws-sdk"
 import {PutObjectRequest} from "aws-sdk/clients/s3"
 import { Store } from "./store"

@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2015, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import config from "./config"
 
 import { Commander } from "./commander"

@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2015, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import config from "../config"
 import { Looker } from "../looker"
 import { LookFinder } from "../repliers/look_finder"

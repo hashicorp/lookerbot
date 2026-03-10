@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2015, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import * as _ from "underscore"
 import * as uuid from "uuid"
 import { IDatum, IQuery, IQueryResponse, IQueryResponseField, IQueryResponseRow} from "../looker_api_types"

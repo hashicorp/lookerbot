@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2015, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import * as _ from "underscore"
 import { IQuery, IQueryResponse } from "../looker_api_types"
 import { ReplyContext } from "../reply_context"

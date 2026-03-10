@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2015, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import * as fs from "fs"
 import { ReadableStreamBuffer } from "stream-buffers"
 import { Store } from "./store"

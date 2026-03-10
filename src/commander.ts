@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2015, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import { Command } from "./commands/command"
 import { Listener } from "./listeners/listener"
 import { Looker } from "./looker"
