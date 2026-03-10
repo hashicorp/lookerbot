@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2015, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import { Store } from "./store"
 
 import { AmazonS3Store } from "./amazon_s3_store"

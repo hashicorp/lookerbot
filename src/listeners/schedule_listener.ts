@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2015, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import * as express from "express"
 import { LookQueryRunner } from "../repliers/look_query_runner"
 import { QueryRunner } from "../repliers/query_runner"

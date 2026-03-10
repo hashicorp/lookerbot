@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2015, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import { expect } from "chai"
 import "mocha"
 import { SlackUtils } from "../src/slack_utils"

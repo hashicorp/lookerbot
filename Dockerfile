@@ -1,3 +1,6 @@
+# Copyright IBM Corp. 2015, 2020
+# SPDX-License-Identifier: MIT
+
 FROM node:12.13.0-alpine
 
 ADD . /app

@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2015, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import * as crypto from "crypto"
 import * as request from "request"
 import * as _ from "underscore"
